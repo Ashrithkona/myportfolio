@@ -1,0 +1,97 @@
+#title {
+  background-color: #7fffd4;
+  color: #000;
+}
+.myimage {
+  height: 300px;
+  width: 400px;
+  padding-left: 220px;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.body {
+  font-family: "Montserrat", "Roboto", sans-seri;
+}
+.navbar {
+  padding-bottom: 4rem;
+}
+.nav-item {
+  padding: 0 10px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.Download-button {
+  margin: 15% 3% 5% 0;
+}
+/* features section*/
+#features {
+  padding: 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+.h3 {
+  font-family: "Montserrat", "Roboto", sans-seri;
+}
+.h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 2.5rem;
+  line-height: 1rem;
+}
+.p {
+  color: #8f8f8f;
+}
+.icon {
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #0000ff;
+}
+/*testimonial*/
+#testimonials {
+  padding: 7% 20%;
+  text-align: center;
+  background-color: #87cefa;
+}
+.testimonial-image {
+  width: 10%;
+  height: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press {
+  background-color: #87cefa;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item {
+  padding: 10% 15%;
+}
+#skills {
+  padding: 100px;
+  text-align: center;
+}
+.skills-coloumn {
+  padding: 3% 2%;
+}
+#cta {
+  font-family: "Montserrat", "Roboto", sans-seri;
+  background-color: #7fffd4;
+  text-align: center;
+}
+.Download-button1 {
+  margin: 5% 3% 5% 0;
+}
+#footer {
+  text-align: center;
+}
+.social-icon {
+  margin: 20px 10px;
+}
